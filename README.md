@@ -1,3 +1,3 @@
-### Peter Ardiarta
+### mohit chauhan
 
-![Prooholic's github stats](https://github-readme-stats.vercel.app/api?username=prooholic&show_icons=true&theme=light)
+![Mohit0033 github stats](https://github-readme-stats.vercel.app/api?username=prooholic&show_icons=true&theme=light)
